@@ -3,9 +3,7 @@
     "description": "Caculate time usage",
     "type": "project",
     "minimum-stability": "dev",
-    "autoload": {
-    },
     "require": {
-        
+        "php": ">=5.3.0",
     }
 }
