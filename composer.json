@@ -2,7 +2,7 @@
     "name": "quocvo87/caculate-time-usage",
     "description": "Caculate time usage",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Quoc Vo",
