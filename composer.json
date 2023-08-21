@@ -9,6 +9,6 @@
             "email": "quocvo87@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
