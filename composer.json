@@ -2,7 +2,7 @@
     "name": "quocvo87/caculate-time-usage",
     "description": "This package will caculate time usage",
     "type": "library",
-    "license": "QV",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Quoc Anh",
