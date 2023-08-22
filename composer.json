@@ -3,7 +3,7 @@
     "description": "This package will caculate time usage",
     "type": "library",
     "keywords": [ "library", "mvc" ],
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Quoc Anh",
